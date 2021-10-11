@@ -2,11 +2,11 @@
 
 Steps to track the changes in a file in Git-
 
-Steps include
--Updating a file from the repository
--Tracking the changes in the file
--Adding the file to the staging area
--Comparing git commits to track file changes
+Steps include:
+- Updating a file from the repository
+- Tracking the changes in the file
+- Adding the file to the staging area
+- Comparing git commits to track file changes
 
 ```
 
